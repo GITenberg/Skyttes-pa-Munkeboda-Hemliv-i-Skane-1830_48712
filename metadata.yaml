@@ -1,4 +1,8 @@
 _repo: Skyttes-pa-Munkeboda-Hemliv-i-Skane-1830_48712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48712-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Malling, Mathilda
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26117
     wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Malling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48712#Skyttes-pa-Munkeboda-Hemliv-i-Skane-1830
 gutenberg_issued: '2015-04-15'
 gutenberg_type: Text
 identifiers:
